@@ -1,0 +1,26 @@
+<resources>
+    <!--Main activity section-->
+    <string name="app_name">CheapAvia</string>
+    <string name="enter_the_origin_airport">Enter the origin airport:</string>
+    <string name="origin_airport">Origin airport</string>
+    <string name="enter_the_destination_airport">Enter the destination airport:</string>
+    <string name="destination_airport">Destination airport</string>
+    <string name="choose_the_flight_date">Choose the flight date</string>
+    <string name="date_of_flight">Date of flight</string>
+    <string name="send_data">Add to list</string>
+    <string name="ticket">Add new ticket</string>
+    <string name="ticket_buy">Buy ticket</string>
+    <string name="ticket_list_head">CheapAvia</string>
+    <!--Ticket activity section-->
+    <string name="origin">Origin: %1$s</string>
+    <string name="destination">Destination: %1$s</string>
+    <string name="date">Date: %1$s</string>
+    <string name="price">Price: %1$s</string>
+    <string name="title_activity_ticket">TicketActivity</string>
+    <string name="flightPreviewForTicket">flight preview for ticket</string>
+    <string name="ticketName">%1$s - %2$s</string>
+    <!--Ticket add activity section-->
+    <string name="add_ticket_head">Add ticket</string>
+    <string name="line">______________________________________________________</string>
+    <string name="TicketHead">Origin - Destination</string>
+</resources>

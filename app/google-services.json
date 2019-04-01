@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1040099787145",
+    "firebase_url": "https://cheapavia-6ef8e.firebaseio.com",
+    "project_id": "cheapavia-6ef8e",
+    "storage_bucket": "cheapavia-6ef8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040099787145:android:a049decd04670cb3",
+        "android_client_info": {
+          "package_name": "jokidark.cheapavia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040099787145-82fgr2fv2mk413mpd5d4ijj19bqi0cco.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jokidark.cheapavia",
+            "certificate_hash": "93e939bd48bbb657daca31f72029867acc745921"
+          }
+        },
+        {
+          "client_id": "1040099787145-263d3st7vu55dc4hou8adh9pk0j0cm2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDZRCx28VlSQJSucSkgPOKgJr6HxOmuus"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040099787145-263d3st7vu55dc4hou8adh9pk0j0cm2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

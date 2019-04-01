@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2E4E3F</color>
+    <color name="colorPrimaryDark">#21372C</color>
+    <color name="colorAccent">#184A31</color>
+    <color name="TicketPreviewBackground">#674C93</color>
+    <color name="textOnToolbarColor">#8EC1A8</color>
+    <color name="backgroundColor">#C3E9D7</color>
+    <color name="textColor">#A8D0BD</color>
+</resources>
